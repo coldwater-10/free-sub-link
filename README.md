@@ -281,6 +281,19 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
 | اندروید |hiddify next - MahsaNG - oblivion |    ClashMeta   |
 | ویندوز |   hiddify next - oblivion desktop - Clash Verge Rev |    V2RayN-PRO    |
 
+## Special Thanks To
+[@mrvcoder](https://github.com/mrvcoder)
+[@kaveh-ahangar](https://github.com/kaveh-ahangar)
+[@barry-far](https://github.com/barry-far)
+[@yebekhe](https://github.com/yebekhe)
+[@mahdibland](https://github.com/mahdibland)
+[@soroushmirzaei](https://github.com/soroushmirzaei)
+[@ircfspace](https://github.com/MrPooyaX)
+[@hossein-mohseni](https://github.com/hossein-mohseni)
+[@MrPooyaX](https://github.com/MrPooyaX)
+[@ALIILAPRO](https://github.com/ALIILAPRO)
+
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 300px;">
     <a href="https://t.me/vpnclashfa"><img src="https://cdn.dribbble.com/users/4507400/screenshots/15420681/media/c00f77bc443cbc4ac96d138f9ac854c5.gif" alt="Telegram" width="100" height="100"></a>
