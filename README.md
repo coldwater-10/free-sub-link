@@ -272,7 +272,7 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">vpnclashfa</h3>
 
-<center>
+
 ### بهترین کلاینت برای هر سیستم عامل
 
 |    سیستم عامل   |              بهترین کلاینت               | جایگزین |
@@ -288,4 +288,3 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
     <a href="https://www.tvtime.com/en/user/43351079/profile"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFhMDk5NzJlYzdmZTJjMDM2Y2MzMjBkOTVkODAxM2FjMTdjZGMwNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lj1ghwUoflkw2F3o0T/giphy.gif" alt="TvTime" width="100" height="100"></a>
     <a href="https://linktr.ee/coldwater_10"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZrdHVxaGkycXV5M2g2emdvdHkwOWVvOHI5YWR3cTVtODJtbGQwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U3ig2IVcuNn6VgU3oO/giphy.gif" alt="linktr" width="100" height="100"></a>
 </div>
-</center>
