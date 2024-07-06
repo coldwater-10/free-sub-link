@@ -22,7 +22,7 @@
 
 [ایرانسل](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/irc.txt)
 
-[hy2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/hy2.txt)
+[هیستریا2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/hy2.txt)
 
 # V2Hub3:
 (تعداد کانفیگ کم - آپدیت هر 2 ساعت)
@@ -179,7 +179,7 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Sub26.txt
 
 
 # V2ray-Configs:
-(تعداد کانفیگ زیاد - آپدیت هر یک ساعت)
+(تعداد کانفیگ فوق العاده زیاد - آپدیت هر یک ساعت)
 
 [raw](https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/All_Configs_Sub.txt)
 
