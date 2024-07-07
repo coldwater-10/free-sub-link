@@ -111,7 +111,7 @@
 
 [clash](https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/Eternity.yml)
 
-حدود 12 هزار تا کانفیگ (مراقب باشین فیلترشکنتون هنگ نکنه)
+حدود 6 هزار تا کانفیگ
 
 [raw](https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/sub/sub_merge.txt)
 
