@@ -283,12 +283,11 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
 
 ## Special Thanks To
 [@mrvcoder](https://github.com/mrvcoder)
-[@kaveh-ahangar](https://github.com/kaveh-ahangar)
 [@barry-far](https://github.com/barry-far)
 [@yebekhe](https://github.com/yebekhe)
 [@mahdibland](https://github.com/mahdibland)
 [@soroushmirzaei](https://github.com/soroushmirzaei)
-[@ircfspace](https://github.com/MrPooyaX)
+[@ircfspace](https://github.com/ircfspace)
 [@hossein-mohseni](https://github.com/hossein-mohseni)
 [@MrPooyaX](https://github.com/MrPooyaX)
 [@ALIILAPRO](https://github.com/ALIILAPRO)
