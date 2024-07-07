@@ -273,7 +273,7 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">vpnclashfa</h3>
 
 
-### بهترین کلاینت برای هر سیستم عامل
+### بهترین فیلترشکن برای هر سیستم عامل
 
 |    سیستم عامل   |              بهترین کلاینت               | جایگزین |
 |:-------:|:--------------------------------------:|:------------:|
