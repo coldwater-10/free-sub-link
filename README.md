@@ -277,9 +277,9 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
 
 |    سیستم عامل   |              بهترین کلاینت               | جایگزین |
 |:-------:|:--------------------------------------:|:------------:|
-|   آی او اس   |        streisand       |  karing - sing-box |
-| اندروید |hiddify next - MahsaNG - oblivion |    ClashMeta   |
-| ویندوز |   hiddify next - oblivion desktop - Clash Verge Rev |    V2RayN-PRO    |
+|   آی او اس   |        [streisand](https://apps.apple.com/ca/app/streisand/id6450534064)       |  [karing](https://apps.apple.com/us/app/karing/id6472431552?platform=iphone) - [sing-box](https://apps.apple.com/us/app/sing-box/id6451272673?platform=iphone) |
+| اندروید |[hiddify](https://github.com/hiddify/hiddify-next/releases) - [MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases) - [oblivion](https://github.com/bepass-org/oblivion/releases) |    [ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)   |
+| ویندوز |   [hiddify](https://github.com/hiddify/hiddify-next/releases) - [oblivion](https://github.com/bepass-org/oblivion-desktop) - [clash verge rev](https://github.com/clash-verge-rev/clash-verge-rev/releases) |    [V2RayN PRO](https://github.com/lowercase78/V2RayN-PRO/releases)    |
 
 ## Special Thanks To
 [@mrvcoder](https://github.com/mrvcoder)
