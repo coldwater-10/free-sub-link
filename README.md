@@ -289,8 +289,6 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
 [@soroushmirzaei](https://github.com/soroushmirzaei)
 [@ircfspace](https://github.com/ircfspace)
 [@hossein-mohseni](https://github.com/hossein-mohseni)
-[@MrPooyaX](https://github.com/MrPooyaX)
-[@ALIILAPRO](https://github.com/ALIILAPRO)
 
 
 
