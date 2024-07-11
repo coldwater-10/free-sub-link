@@ -24,8 +24,6 @@
 
 [V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub4.yaml)
 
-[hy2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/hy2.yaml)
-(آپدیت دستی)
 
 
 # V2Hub3:
