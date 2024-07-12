@@ -132,6 +132,17 @@
 
 [trojan](https://raw.githubusercontent.com/coldwater-10/V2rayCollectorVpnclashfa/main/trojan_iran.txt)
 
+# V2rayCollector mahsaserver:
+(تعداد کانفیگ متوسط - آپدیت هر 1 ساعت)
+
+[ss](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/ss_iran.txt)
+
+[vmess](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/vmess_iran.txt)
+
+[vless](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/vless_iran.txt)
+
+[trojan](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/trojan_iran.txt)
+
 # V2RayAggregator:
 (حدود 200 کانفیگ که رندوم انتخاب شدن)
 
