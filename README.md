@@ -82,6 +82,34 @@
 
 [ShadowSocks BASE64](https://raw.githubusercontent.com/coldwater-10/V2Hub4/main/Split/Base64/shadowsocks)
 
+# V2Hub5:
+(تعداد کانفیگ کم - آپدیت هر 2 ساعت)
+
+[Merged Raw](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/merged)
+
+[VMESS Raw](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Normal/vmess)
+
+[VLESS Raw](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Normal/vless)
+
+[REALITY Raw](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Normal/reality)
+
+[TROJAN Raw](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Normal/trojan)
+
+[ShadowSocks Raw](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Normal/shadowsocks)
+
+
+[Merged BASE64](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/merged_base64)
+
+[VMESS BASE64](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Base64/vmess)
+
+[VLESS BASE64](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Base64/vless)
+
+[REALITY BASE64](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Base64/reality)
+
+[TROJAN BASE64](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Base64/trojan)
+
+[ShadowSocks BASE64](https://raw.githubusercontent.com/coldwater-10/V2Hub5/main/Split/Base64/shadowsocks)
+
 # V2rayCollectorLite:
 (تعداد کانفیگ متوسط - آپدیت هر 1 ساعت)
 
@@ -103,18 +131,6 @@
 [vless](https://raw.githubusercontent.com/coldwater-10/V2rayCollectorVpnclashfa/main/vless_iran.txt)
 
 [trojan](https://raw.githubusercontent.com/coldwater-10/V2rayCollectorVpnclashfa/main/trojan_iran.txt)
-
-# V2rayCollector mahsaserver:
-(تعداد کانفیگ متوسط - آپدیت هر 1 ساعت)
-
-[ss](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/ss_iran.txt)
-
-[vmess](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/vmess_iran.txt)
-
-[vless](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/vless_iran.txt)
-
-[trojan](https://raw.githubusercontent.com/coldwater-10/V2rayCollector_mahsaserver/main/trojan_iran.txt)
-
 
 # V2RayAggregator:
 (حدود 200 کانفیگ که رندوم انتخاب شدن)
