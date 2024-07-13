@@ -169,6 +169,42 @@
 [vmess](https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/sub/splitted/vmess.txt)
 
 
+# V2ray-Config-Lite:
+(حدود 3 هزارتا کانفیگ - آپدیت هر یک ساعت)
+
+[raw](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/All_Configs_Sub.txt)
+
+[base64](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/All_Configs_base64_Sub.txt)
+
+[vmess](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/vmess.txt)
+
+[vless](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/vless.txt)
+
+[trojan](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/trojan.txt)
+
+[ss](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/ss.txt)
+
+[ssr](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/ssr.txt)
+
+[tuic](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/tuic.txt)
+
+[hysteria2](https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Splitted-By-Protocol/hysteria2.txt)
+
+اگه لینکای بالا تعداد کانفیگاش زیاد بود از پایینیا استفاده کنین تقسیم شدن
+
+https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Sub1.txt
+
+https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Sub2.txt
+
+https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Sub3.txt
+
+https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Sub4.txt
+
+https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Sub5.txt
+
+https://raw.githubusercontent.com/coldwater-10/V2ray-Config-Lite/main/Sub6.txt
+
+
 # V2ray-Config:
 (تعداد کانفیگ زیاد - آپدیت هر یک ساعت)
 
