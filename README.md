@@ -7,7 +7,7 @@
 
 [مخابرات](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/mkb.txt)
 
-[هیستریا2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/hy2.txt)
+[هیستریا 2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/raw/hy2.txt)
 
 
 # لینکای اشتراک کلش:
