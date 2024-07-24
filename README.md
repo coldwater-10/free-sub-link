@@ -19,12 +19,16 @@
 
 [V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub4.yaml)
 
+[V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub5.yaml)
+
 # لینکای اشتراک کلش متا:
 (با قوانین مخصوص ایران)
 
 [V2Hub3](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub3.yaml)
 
 [V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub4.yaml)
+
+[V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub5.yaml)
 
 
 
@@ -154,7 +158,7 @@
 
 [clash](https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/Eternity.yml)
 
-حدود 6 هزار تا کانفیگ
+(حدود 6 هزار تا کانفیگ)
 
 [raw](https://raw.githubusercontent.com/coldwater-10/V2RayAggregator/master/sub/sub_merge.txt)
 
