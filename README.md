@@ -19,7 +19,7 @@
 
 [V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub4.yaml)
 
-[V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub5.yaml)
+[V2Hub5](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub5.yaml)
 
 # لینکای اشتراک کلش متا:
 (با قوانین مخصوص ایران)
@@ -28,7 +28,7 @@
 
 [V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub4.yaml)
 
-[V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub5.yaml)
+[V2Hub5](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub5.yaml)
 
 
 
