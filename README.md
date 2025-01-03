@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Sub10.txt
 .
 .
 
-https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Sub68txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Config/main/Sub68.txt
 
 تا ساب 68 ادامه داره خودتون میتونین آخرشو ادیت کنین ساب دیگه رو انتخاب کنین مثلا
 
@@ -276,7 +276,7 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub10.txt
 .
 .
 
-https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub312txt
+https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub312.txt
 
 تا ساب 312 ادامه داره خودتون میتونین آخرشو ادیت کنین ساب دیگه رو انتخاب کنین مثلا
 
