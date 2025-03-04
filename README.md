@@ -1,14 +1,24 @@
 # new sub link
 [basse64](https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt)
+
 [singbox](https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json)
+
 [mci_1](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt)
+
 [mci_2](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt)
+
 [mci_3](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_3.txt)
+
 [mci_4](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt)
+
 [mtn_1](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt)
+
 [mtn_2](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt)
+
 [mtn_3](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt)
+
 [mtn_4](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt)
+
 
 گیتهاب اکشن اکانتمو غیر فعال کرده لینکای اشتراک پایینی کانفیگاشون آپدیت نمیشن یا از بالاییا استفاده کنین یا خودتون رپو هارو فورک بگیرین و اکشنشو فعال کنین
 
