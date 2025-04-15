@@ -1,4 +1,4 @@
-# لینک های اشتراک چدید
+# لینکای اشتراک جدید
 [basse64](https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt)
 
 [singbox](https://raw.githubusercontent.com/10ium/multi-proxy-config-fetcher/refs/heads/main/configs/singbox_configs.json)
