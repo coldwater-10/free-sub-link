@@ -21,6 +21,7 @@
 
 # لینکای اشتراک کلش متا:
 (با قوانین مخصوص ایران)
+
 [10ium-multi-proxy-config-fetcher](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/10ium-multi-proxy-config-fetche.yaml)
 
 [MahsaFreeConfig-mtn](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/MahsaFreeConfig-mtn.yaml)
