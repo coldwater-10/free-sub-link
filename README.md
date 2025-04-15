@@ -19,6 +19,95 @@
 
 [mtn_4](https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt)
 
+# لینکای اشتراک کلش متا:
+(با قوانین مخصوص ایران)
+[10ium-multi-proxy-config-fetcher](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/10ium-multi-proxy-config-fetche.yaml)
+
+[MahsaFreeConfig-mtn](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/MahsaFreeConfig-mtn.yaml)
+
+[MahsaFreeConfig-mci](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/MahsaFreeConfig-mci.yaml)
+
+[soroushmirzaei.tuic.hysteria](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/soroushmirzaei.tuic.hysteria.yaml)
+
+[66.42.50.118](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/66.42.50.118.yaml)
+
+[Barabama.clashmeta](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/Barabama.clashmeta.yaml)
+
+[Barabama.ndnode](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/Barabama.ndnode.yaml)
+
+[Barabama.nodefree](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/Barabama.nodefree.yaml)
+
+[Barabama.v2rayshare](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/Barabama.v2rayshare.yaml)
+
+[Ruk1ng001](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/Ruk1ng001.yaml)
+
+[SnapdragonLee_clash_config](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/SnapdragonLee_clash_config.yaml)
+
+[SnapdragonLee_clash_config_extra](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/SnapdragonLee_clash_config_extra.yaml)
+
+[SnapdragonLee_clash_config_extra_US](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/SnapdragonLee_clash_config_extra_US.yaml)
+
+[anaer](https://github.com/coldwater-10/Vpnclashfa/raw/refs/heads/main/free-mihomo-sub/anaer.yaml)
+
+[clashe.eu.org](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/clashe.eu.org.yaml)
+
+[crazygeeky](https://github.com/coldwater-10/Vpnclashfa/raw/refs/heads/main/free-mihomo-sub/crazygeeky.yaml)
+
+[ermaozi](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/ermaozi.yaml)
+
+[firefoxmmx2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/firefoxmmx2.yaml)
+
+[free18](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/free18.yaml)
+
+[mfuu](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/mfuu.yaml)
+
+[peasoft.list.meta](https://github.com/coldwater-10/Vpnclashfa/raw/refs/heads/main/free-mihomo-sub/peasoft.list.meta.yaml)
+
+[peasoft.list](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/peasoft.list.yaml)
+
+[proxypool.link](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/proxypool.link.yaml)
+
+[proxypool1999](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/proxypool1999.yaml)
+
+[pxypool.131433](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/pxypool.131433.yaml)
+
+[ronghuaxueleng.NoMoreWalls](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/ronghuaxueleng.NoMoreWalls.yaml)
+
+[ronghuaxueleng.cfmem](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/ronghuaxueleng.cfmem.yaml)
+
+[ronghuaxueleng.combine](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/ronghuaxueleng.combine.yaml)
+
+[ronghuaxueleng.pawdroid](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/ronghuaxueleng.pawdroid.yaml)
+
+[roosterkid](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/roosterkid.yaml)
+
+[snakem982-clash-meta](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/snakem982-clash-meta.yaml)
+
+[snakem982-clash-meta-2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/snakem982-clash-meta-2.yaml)
+
+[ssrsub](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/ssrsub.yaml)
+
+[tt.vg](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/tt.vg.yaml)
+
+# دی ان اس برای گیم
+
+بعضی از نرم افزارا و بازیا از سیستم پروکسی استفاده نمیکنن پس یه سری کانفیگ کلش ساختم که پروکسی نداره فقط دی ان اس داره برای رفع تحریم
+
+[شکن](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/shecan.yml)
+
+[الکترو](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/electro.yml)
+
+[رادار بازی](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/radar.yml)
+
+[بگذر](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/begzar.yml)
+
+[س403](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/403.yml)
+
+[شلتر](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/shelter.yml)
+
+[شلتر موبایل](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/shelter-mobile.yml)
+
+[ترکیبی](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/dnsforgame/all.yml)
 
 ⚠️ گیتهاب اکشن اکانتمو غیر فعال کرده لینکای اشتراک پایینی کانفیگاشون آپدیت نمیشن یا از بالاییا استفاده کنین یا خودتون رپو هارو فورک بگیرین و اکشنشو فعال کنین
 
@@ -344,29 +433,6 @@ https://raw.githubusercontent.com/coldwater-10/V2ray-Configs/main/Sub226.txt
 
 # HiN-VPN:
 [لینک اشتراک کانال مورد نظرتون به صورت جداگونه](https://github.com/coldwater-10/HiN-VPN)
-
-
-# لینکای اشتراک کلش:
-(با قوانین مخصوص ایران)
-
-[V2RayAggregator](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/coldwater-10_V2RayAggregator.yaml)
-
-[V2Hub3](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub3.yaml)
-
-[V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub4.yaml)
-
-[V2Hub5](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/V2Hub5.yaml)
-
-# لینکای اشتراک کلش متا:
-(با قوانین مخصوص ایران)
-
-[V2Hub3](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub3.yaml)
-
-[V2Hub4](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub4.yaml)
-
-[V2Hub5](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/main/meta/V2Hub5.yaml)
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">vpnclashfa</h3>
