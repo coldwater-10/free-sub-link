@@ -26,6 +26,8 @@
 
 [MahsaFreeConfig-mci](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/MahsaFreeConfig-mci.yaml)
 
+[MahsaFreeConfig-mix](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/MahsaFreeConfig-mix.yaml)
+
 [soroushmirzaei.tuic.hysteria](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/soroushmirzaei.tuic.hysteria.yaml)
 
 [10ium-tuic-hysteria2](https://raw.githubusercontent.com/coldwater-10/Vpnclashfa/refs/heads/main/free-mihomo-sub/10iumV2ray-Config-tuic-hysteria2.yaml)
